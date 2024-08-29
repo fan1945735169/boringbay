@@ -327,5 +327,12 @@
 		"name": "LCX",
 		"description": "这是一个博客，同时也是一个知识库。",
 		"github_username": "longchunxin"
+	},
+	"61": {
+	        "domain": "blog.klicn.com",
+		"icon": "https://blog.klicn.com/avatar.png",
+		"name": "千千の小破站",
+		"description": "飞萤扑火，向死而生",
+		"github_username": "fan1945735169"
 	}
 }
